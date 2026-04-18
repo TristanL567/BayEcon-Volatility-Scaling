@@ -1,0 +1,4 @@
+"strategy","mean_exposure","median_exposure","p95_exposure","max_exposure","pct_at_cap"
+"SPY_Benchmark",1,1,1,1,0
+"Naive_MM_Realized22d",0.799498874746842,0.663770295441618,2,2,0.0841990158556588
+"FSV_MM_Forecast22d",0.779715977893037,0.677577478429516,2,2,0.0601421541826134
